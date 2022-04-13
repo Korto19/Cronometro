@@ -4,6 +4,7 @@
 
 [general]
 name=Cronometro
+name[en]=StopWatch
 qgisMinimumVersion=3.0
 description=Crea un semplice cronometro
 description[en]=Make a simple stopwatch
