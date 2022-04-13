@@ -15,7 +15,7 @@ about[it]=Semplice cronometro per valutare durata operazioni
 about[en]=Simple stopwatch to evaluate the duration of operations
 
 tracker=https://github.com/Korto19/Cronometro/issues
-repository=https://github.com/Korto19/Cronometro#cronometro
+repository=https://github.com/Korto19/Cronometro
 # End of mandatory metadata
 
 # Recommended items:
@@ -27,7 +27,7 @@ changelog=Version 1.0 12/04/2022
 # Tags are comma separated with spaces allowed
 tags=python, timer
 
-homepage=https://github.com/Korto19/Cronometro
+homepage=https://github.com/Korto19/Cronometro#cronometro
 category=Plugins
 icon=icon.png
 # experimental flag
