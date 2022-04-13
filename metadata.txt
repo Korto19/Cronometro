@@ -15,7 +15,7 @@ about[it]=Semplice cronometro per valutare durata operazioni
 about[en]=Simple stopwatch to evaluate the duration of operations
 
 tracker=https://github.com/Korto19/Cronometro/issues
-repository=https://github.com/Korto19/Cronometro
+repository=https://github.com/Korto19/Cronometro#cronometro
 # End of mandatory metadata
 
 # Recommended items:
