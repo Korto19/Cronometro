@@ -5,13 +5,13 @@
 [general]
 name=Cronometro
 qgisMinimumVersion=3.0
-description[it]=Crea un semplice cronometro
+description=Crea un semplice cronometro
 description[en]=Make a simple stopwatch
 version=1.0
 author=Korto19 & ValPinna
 email=giulio.fattori@tin.it
 
-about[it]=Semplice cronometro per valutare durata operazioni
+about=Semplice cronometro per valutare durata operazioni
 about[en]=Simple stopwatch to evaluate the duration of operations
 
 tracker=https://github.com/Korto19/Cronometro/issues
@@ -46,4 +46,3 @@ Category of the plugin: Raster, Vector, Database or Web
 
 # If the plugin can run on QGIS Server.
 server=False
-
