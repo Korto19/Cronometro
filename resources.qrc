@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Cronometro" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

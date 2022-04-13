@@ -1,0 +1,49 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Cronometro
+qgisMinimumVersion=3.0
+description[it]=Crea un semplice cronometro
+description[en]=Make a simple stopwatch
+version=1.0
+author=Korto19 & ValPinna
+email=giulio.fattori@tin.it
+
+about[it]=Semplice cronometro per valutare durata operazioni
+about[en]=Simple stopwatch to evaluate the duration of operations
+
+tracker=https://github.com/Korto19/Cronometro/issues
+repository=https://github.com/Korto19/Cronometro
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+changelog=Version 1.0 12/04/2022
+
+# Tags are comma separated with spaces allowed
+tags=python, timer
+
+homepage=https://github.com/Korto19/Cronometro
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Utilities
+
+# If the plugin can run on QGIS Server.
+server=False
+
