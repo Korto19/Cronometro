@@ -1,0 +1,2 @@
+# Cronometro
+Semplice plugin cronometro
