@@ -9,7 +9,7 @@ qgisMinimumVersion=3.0
 description=Crea un semplice cronometro
 description[en]=Make a simple stopwatch
 version=1.0
-author=Giulio Fattori & ValPinna
+author=Giulio Fattori & Valerio Pinna
 email=giulio.fattori@tin.it
 
 about=Semplice cronometro per valutare durata operazioni
