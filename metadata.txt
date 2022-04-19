@@ -6,14 +6,22 @@
 name=Cronometro
 name[en]=StopWatch
 qgisMinimumVersion=3.0
-description=Crea un semplice cronometro
-description[en]=Make a simple stopwatch
+description=Il plugin crea un semplice cronometro in ambiente QGIS. Il conteggiop del tempo trascorso verrá visualizzato sia nella finestra del plugin the nella barra di stato.
+description[en]=The plugin creates a simple stopwatch in QGIS enviroment. The count of the elapsed time will be visible both in the plugin windows and in the statusbar. 
 version=1.0
-author=Giulio Fattori & ValPinna
+author=Giulio Fattori & Valerio Pinna
 email=giulio.fattori@tin.it
 
-about=Semplice cronometro per valutare durata operazioni
-about[en]=Simple stopwatch to evaluate the duration of operations
+about= Un semplice cronometro in ambiente QGIS per valutare la durata delle operazioni, con pulsanti start/stop e reset.
+
+        Il tempo trascorso sarà visibile sia in una finestra dedicata del plugin che nella barra di stato.
+        Quando la finestra viene chiusa senza interruzioni e reimpostazioni, il conteggio del tempo trascorso continuerà a essere disponibile nella barra di stato.
+        Per interromperlo riaprire la finestra e selezionare reset.
+about[en]=A simple stopwatch in the QGIS environment to evaluate the duration of operations, with start/stop and reset buttons. 
+
+          The elapsed time will be visible both in a dedicated plugin window and in the status toolbar. 
+          When the window is closed without interrupting and resetting, the elapsing time count will continue to be available in the status bar.
+          To interrupt it reopen the window and select reset. 
 
 tracker=https://github.com/Korto19/Cronometro/issues
 repository=https://github.com/Korto19/Cronometro
